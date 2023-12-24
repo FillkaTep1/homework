@@ -1,2 +1,0 @@
-my_list = [1, 6, 9]
-print(my_list[::-1])
