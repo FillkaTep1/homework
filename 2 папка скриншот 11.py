@@ -1,4 +1,5 @@
-names = [' привет Мага','привет Магеран','привет Эльнур']
- 
-for name in names:
-    print(name)
+a=['мага жи есть','Георгий','Матвей да']
+def g(a):
+    for i in range(len(a)):
+        print('привет',a[i])
+g(a)
